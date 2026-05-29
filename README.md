@@ -19,9 +19,13 @@ Upscales images from **64×64 → 256×256** using three models of increasing co
 ## Project Structure
 
 ├── notebook.ipynb          # Main notebook
+
 ├── dataset/
+
 │   └── train/
+
 │       ├── low_res/        # 64×64 input images
+
 │       └── high_res/       # 256×256 target images
 
 ## Requirements
